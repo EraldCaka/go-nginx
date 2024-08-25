@@ -172,3 +172,17 @@
 2024/08/25 12:57:09 [notice] 14964#18764: using inherited sockets from "C:\nginx"
 2024/08/25 12:57:09 [emerg] 14964#18764: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
 2024/08/25 12:57:09 [emerg] 14964#18764: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 14:24:58 [notice] 20228#16000: using inherited sockets from "C:\nginx"
+2024/08/25 14:24:58 [emerg] 20228#16000: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 14:24:58 [emerg] 20228#16000: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 14:24:58 [emerg] 20228#16000: CreateFile() "C:\Users\TR3BIT\GolandProjects\event-driven-architecture-example\nginx.conf" failed (3: The system cannot find the path specified)
+2024/08/25 14:25:23 [notice] 16672#11800: using inherited sockets from "C:\nginx"
+2024/08/25 14:25:23 [emerg] 16672#11800: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 14:25:23 [emerg] 16672#11800: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 14:25:23 [emerg] 16672#11800: CreateFile() "C:\Users\TR3BIT\GolandProjects\event-driven-architecture-example\nginx.conf" failed (3: The system cannot find the path specified)
+2024/08/25 14:26:11 [notice] 20652#9664: using inherited sockets from "C:\nginx"
+2024/08/25 14:26:11 [emerg] 20652#9664: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 14:26:11 [emerg] 20652#9664: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 14:26:11 [notice] 22232#9644: using inherited sockets from "C:\nginx"
+2024/08/25 14:26:11 [emerg] 22232#9644: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 14:26:11 [emerg] 22232#9644: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
