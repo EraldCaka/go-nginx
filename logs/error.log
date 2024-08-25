@@ -1,0 +1,174 @@
+2024/08/25 01:53:16 [notice] 9840#8896: using inherited sockets from "C:\nginx"
+2024/08/25 01:53:16 [emerg] 9840#8896: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 01:53:16 [emerg] 9840#8896: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 01:53:16 [emerg] 9840#8896: CreateDirectory() "C:\Users\TR3BIT\GolandProjects\event-driven-architecture-example/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2024/08/25 01:53:45 [notice] 5272#6020: using inherited sockets from "C:\nginx"
+2024/08/25 01:53:45 [emerg] 5272#6020: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 01:53:45 [emerg] 5272#6020: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 01:56:03 [notice] 16180#18404: using inherited sockets from "C:\nginx"
+2024/08/25 01:56:03 [emerg] 16180#18404: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 01:56:03 [emerg] 16180#18404: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 01:56:27 [notice] 12452#17784: using inherited sockets from "C:\nginx"
+2024/08/25 01:56:27 [emerg] 12452#17784: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 01:56:27 [emerg] 12452#17784: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 01:57:15 [notice] 18804#11444: using inherited sockets from "C:\nginx"
+2024/08/25 01:57:15 [emerg] 18804#11444: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 01:57:15 [emerg] 18804#11444: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 01:57:15 [emerg] 18804#11444: CreateFile() "C:\C:\Users\TR3BIT\GolandProjects\event-driven-architecture-example\nginx.conf" failed (123: The filename, directory name, or volume label syntax is incorrect)
+2024/08/25 01:57:36 [notice] 13424#15680: using inherited sockets from "C:\nginx"
+2024/08/25 01:57:36 [emerg] 13424#15680: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 01:57:36 [emerg] 13424#15680: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 01:57:36 [emerg] 13424#15680: "pid" directive is not allowed here in C:\Users\TR3BIT\GolandProjects\event-driven-architecture-example\nginx.conf:9
+2024/08/25 01:58:02 [notice] 19420#7676: using inherited sockets from "C:\nginx"
+2024/08/25 01:58:02 [emerg] 19420#7676: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 01:58:02 [emerg] 19420#7676: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 01:58:02 [emerg] 19420#7676: "pid" directive is not allowed here in C:\Users\TR3BIT\GolandProjects\event-driven-architecture-example\nginx.conf:9
+2024/08/25 01:59:02 [notice] 13068#6724: using inherited sockets from "C:\nginx"
+2024/08/25 01:59:02 [emerg] 13068#6724: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 01:59:02 [emerg] 13068#6724: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 01:59:02 [emerg] 13068#6724: "pid" directive is not allowed here in C:\nginx\conf\nginx.conf:9
+2024/08/25 01:59:25 [notice] 7920#16336: using inherited sockets from "C:\nginx"
+2024/08/25 01:59:25 [emerg] 7920#16336: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 01:59:25 [emerg] 7920#16336: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 01:59:40 [notice] 16552#18536: using inherited sockets from "C:\nginx"
+2024/08/25 01:59:40 [emerg] 16552#18536: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 01:59:40 [emerg] 16552#18536: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 01:59:40 [emerg] 16552#18536: "pid" directive is not allowed here in C:\Users\TR3BIT\GolandProjects\event-driven-architecture-example\nginx.conf:9
+2024/08/25 02:00:00 [notice] 18620#3644: using inherited sockets from "C:\nginx"
+2024/08/25 02:00:00 [emerg] 18620#3644: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:00:00 [emerg] 18620#3644: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:00:27 [notice] 14464#9020: using inherited sockets from "C:\nginx"
+2024/08/25 02:00:27 [emerg] 14464#9020: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:00:27 [emerg] 14464#9020: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:02:08 [notice] 21008#21012: using inherited sockets from "C:\nginx"
+2024/08/25 02:02:08 [emerg] 21008#21012: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:02:08 [emerg] 21008#21012: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:02:08 [notice] 21028#21032: using inherited sockets from "C:\nginx"
+2024/08/25 02:02:08 [emerg] 21028#21032: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:02:08 [emerg] 21028#21032: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:03:58 [notice] 6696#20388: using inherited sockets from "C:\nginx"
+2024/08/25 02:03:58 [emerg] 6696#20388: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:03:58 [emerg] 6696#20388: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:03:58 [notice] 20856#19088: using inherited sockets from "C:\nginx"
+2024/08/25 02:03:58 [emerg] 20856#19088: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:03:58 [emerg] 20856#19088: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:04:13 [notice] 1468#17872: using inherited sockets from "C:\nginx"
+2024/08/25 02:04:13 [emerg] 1468#17872: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:04:13 [emerg] 1468#17872: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:04:13 [emerg] 1468#17872: "pid" directive is not allowed here in C:\Users\TR3BIT\GolandProjects\event-driven-architecture-example\nginx.conf:9
+2024/08/25 02:04:22 [notice] 10048#5868: using inherited sockets from "C:\nginx"
+2024/08/25 02:04:22 [emerg] 10048#5868: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:04:22 [emerg] 10048#5868: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:04:44 [notice] 21244#13064: using inherited sockets from "C:\nginx"
+2024/08/25 02:04:44 [emerg] 21244#13064: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:04:44 [emerg] 21244#13064: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:07:18 [notice] 17060#20644: using inherited sockets from "C:\nginx"
+2024/08/25 02:07:18 [emerg] 17060#20644: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:07:18 [emerg] 17060#20644: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:07:18 [notice] 8592#20572: using inherited sockets from "C:\nginx"
+2024/08/25 02:07:18 [emerg] 8592#20572: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:07:18 [emerg] 8592#20572: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:07:29 [notice] 6092#9656: using inherited sockets from "C:\nginx"
+2024/08/25 02:07:29 [emerg] 6092#9656: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:07:29 [emerg] 6092#9656: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:07:40 [notice] 14492#21436: using inherited sockets from "C:\nginx"
+2024/08/25 02:07:40 [emerg] 14492#21436: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:07:40 [emerg] 14492#21436: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:07:40 [notice] 14728#21112: using inherited sockets from "C:\nginx"
+2024/08/25 02:07:40 [emerg] 14728#21112: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:07:40 [emerg] 14728#21112: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:10:11 [notice] 9888#6648: using inherited sockets from "C:\nginx"
+2024/08/25 02:10:11 [emerg] 9888#6648: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:10:11 [emerg] 9888#6648: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:10:11 [notice] 1732#19884: using inherited sockets from "C:\nginx"
+2024/08/25 02:10:11 [emerg] 1732#19884: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:10:11 [emerg] 1732#19884: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:12:59 [notice] 20428#17716: using inherited sockets from "C:\nginx"
+2024/08/25 02:12:59 [emerg] 20428#17716: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:12:59 [emerg] 20428#17716: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:12:59 [notice] 20216#8444: using inherited sockets from "C:\nginx"
+2024/08/25 02:12:59 [emerg] 20216#8444: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:12:59 [emerg] 20216#8444: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:13:36 [notice] 17772#20848: using inherited sockets from "C:\nginx"
+2024/08/25 02:13:36 [emerg] 17772#20848: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:13:36 [emerg] 17772#20848: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:14:13 [notice] 21136#8976: using inherited sockets from "C:\nginx"
+2024/08/25 02:14:13 [emerg] 21136#8976: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:14:13 [emerg] 21136#8976: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:14:19 [notice] 14436#10068: using inherited sockets from "C:\nginx"
+2024/08/25 02:14:19 [emerg] 14436#10068: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:14:19 [emerg] 14436#10068: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:14:19 [notice] 10048#20280: using inherited sockets from "C:\nginx"
+2024/08/25 02:14:19 [emerg] 10048#20280: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:14:19 [emerg] 10048#20280: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:15:53 [notice] 3276#14404: using inherited sockets from "C:\nginx"
+2024/08/25 02:15:53 [emerg] 3276#14404: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:15:53 [emerg] 3276#14404: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:15:53 [notice] 20632#5828: using inherited sockets from "C:\nginx"
+2024/08/25 02:15:53 [emerg] 20632#5828: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:15:53 [emerg] 20632#5828: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:17:59 [notice] 8696#20496: using inherited sockets from "C:\nginx"
+2024/08/25 02:17:59 [emerg] 8696#20496: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:17:59 [emerg] 8696#20496: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:17:59 [notice] 18444#15032: using inherited sockets from "C:\nginx"
+2024/08/25 02:17:59 [emerg] 18444#15032: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:17:59 [emerg] 18444#15032: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:22:33 [notice] 23236#23240: using inherited sockets from "C:\nginx"
+2024/08/25 02:22:33 [emerg] 23236#23240: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:22:33 [emerg] 23236#23240: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:22:33 [notice] 23256#23260: using inherited sockets from "C:\nginx"
+2024/08/25 02:22:33 [emerg] 23256#23260: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:22:33 [emerg] 23256#23260: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:25:34 [notice] 23524#19212: using inherited sockets from "C:\nginx"
+2024/08/25 02:25:34 [emerg] 23524#19212: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:25:34 [emerg] 23524#19212: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:25:34 [emerg] 23524#19212: CreateFile() "C:\Users\TR3BIT\GolandProjects\event-driven-architecture-example/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2024/08/25 02:26:09 [notice] 22060#20888: using inherited sockets from "C:\nginx"
+2024/08/25 02:26:09 [emerg] 22060#20888: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:26:09 [emerg] 22060#20888: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:26:09 [notice] 22060#20888: signal process started
+2024/08/25 02:26:09 [notice] 22604#1796: using inherited sockets from "C:\nginx"
+2024/08/25 02:26:09 [emerg] 22604#1796: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:26:09 [emerg] 22604#1796: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:26:41 [notice] 16772#15576: using inherited sockets from "C:\nginx"
+2024/08/25 02:26:41 [emerg] 16772#15576: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:26:41 [emerg] 16772#15576: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:26:41 [notice] 10996#21212: using inherited sockets from "C:\nginx"
+2024/08/25 02:26:41 [emerg] 10996#21212: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:26:41 [emerg] 10996#21212: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:27:23 [notice] 22092#22644: using inherited sockets from "C:\nginx"
+2024/08/25 02:27:23 [emerg] 22092#22644: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:27:23 [emerg] 22092#22644: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:27:23 [notice] 9232#20640: using inherited sockets from "C:\nginx"
+2024/08/25 02:27:23 [emerg] 9232#20640: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:27:23 [emerg] 9232#20640: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:28:05 [notice] 22532#23508: using inherited sockets from "C:\nginx"
+2024/08/25 02:28:05 [emerg] 22532#23508: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:28:05 [emerg] 22532#23508: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:28:05 [notice] 2504#12588: using inherited sockets from "C:\nginx"
+2024/08/25 02:28:05 [emerg] 2504#12588: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:28:05 [emerg] 2504#12588: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:36:17 [notice] 6852#6840: using inherited sockets from "C:\nginx"
+2024/08/25 02:36:17 [emerg] 6852#6840: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:36:17 [emerg] 6852#6840: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 02:36:17 [notice] 6836#6828: using inherited sockets from "C:\nginx"
+2024/08/25 02:36:17 [emerg] 6836#6828: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 02:36:17 [emerg] 6836#6828: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 12:38:38 [notice] 5080#3108: using inherited sockets from "C:\nginx"
+2024/08/25 12:38:38 [emerg] 5080#3108: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 12:38:38 [emerg] 5080#3108: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 12:38:38 [notice] 16796#20764: using inherited sockets from "C:\nginx"
+2024/08/25 12:38:38 [emerg] 16796#20764: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 12:38:38 [emerg] 16796#20764: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 12:56:47 [notice] 13668#19296: using inherited sockets from "C:\nginx"
+2024/08/25 12:56:47 [emerg] 13668#19296: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 12:56:47 [emerg] 13668#19296: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 12:56:47 [notice] 1136#16832: using inherited sockets from "C:\nginx"
+2024/08/25 12:56:47 [emerg] 1136#16832: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 12:56:47 [emerg] 1136#16832: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 12:57:09 [notice] 11688#15112: using inherited sockets from "C:\nginx"
+2024/08/25 12:57:09 [emerg] 11688#15112: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 12:57:09 [emerg] 11688#15112: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
+2024/08/25 12:57:09 [notice] 14964#18764: using inherited sockets from "C:\nginx"
+2024/08/25 12:57:09 [emerg] 14964#18764: invalid socket number "C:\nginx" in NGINX environment variable, ignoring the rest of the variable
+2024/08/25 12:57:09 [emerg] 14964#18764: invalid socket number "C:\nginx" in NGINX environment variable, ignoring
